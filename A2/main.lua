@@ -2,8 +2,9 @@
      By Boris Pallares
      February 11/17
      Apps For mobile devices class ]]
+-----------------------------------------------------------------------------------------------------------------
 
--- load physics
+----------------- Envitonment Configuration ----------------
 local physicsEnvironment = require "physics"
 physicsEnvironment.start()
 physics.setDrawMode( "hybrid" )  --the default Corona renderer, with no collision outlines
@@ -12,26 +13,32 @@ display.setStatusBar( display.HiddenStatusBar )  -- get rid of the status bar
 
 -- Add a round body to the screen
 local mainPlayer = display.newCircle(200,display.contentHeight-500,35)
--- Red color
 mainPlayer:setFillColor(1,0,0)
--- add body to physicsEnvironment
-physicsEnvironment.addBody(mainPlayer, { density=0.15, friction=1.0, bounce=.9, radius=35 })
+physicsEnvironment.addBody(mainPlayer, { density=0.09, friction=1.0, bounce=.9, radius=35 })
+
 -- Add wall around the scene
-local wallGroup = display.newGroup()
 local wallTop = display.newRect(display.contentWidth/2,0,display.contentWidth,5)
-wallGroup:insert( wallTop )
 local wallBotton = display.newRect(display.contentWidth/2,display.contentHeight,display.contentWidth,5)
-wallGroup:insert( wallBotton )
 local wallLeft = display.newRect(0,display.contentHeight/2,5,display.contentHeight)
-wallGroup:insert( wallLeft )
 local wallRight = display.newRect(display.contentWidth,display.contentHeight/2,5,display.contentHeight)
-wallGroup:insert( wallRight )
+
 -- table creation
 local table1 = display.newRect(200,display.contentHeight-170,100,325)
 physics.addBody(table1,"static")
+
 -- creation of books
 local book1 = display.newImage("book1.png")
-book1.x=900 ; book1.y=display.contentHeight-100 ; book1.width=200; book1.height=200
+book1.x=900 ; book1.y=display.contentHeight-100; book1.width=200; book1.height=200
+
+-- create obstacles
+local pathWay = display.newRect(700,350,10,350)
+physics.addBody(pathWay,"static")
+--pathWay:rotate(-65)
+
+--local lamp = display.newCircle(700,850,50)
+--physics.addBody(lamp)
+--joint = physics.newJoint( "rope", string1, lamp, 0, -20, 0, 20 )
+
 
 --[[
 halfWidth — Half of the body width. This property is required.
@@ -39,13 +46,12 @@ halfHeight — Half of the body height. This property is required.
 x — The x offset (±) from the display object's center. This property is optional and defaults to 0.
 y — The y offset (±) from the display object's center. This property is optional and defaults to 0.
 angle — The angle (rotation) of the body. This property is optional and defaults to 0.]]
---local bookShape ={900,900,900,900,900,900}
---ocal image_outline = graphics.newOutline( 2, book1 )
-
-physics.addBody(book1)
+                --x1   y1 --x2 --y2
+local bookShape ={-20,-100, 20,-100, 20,100, -20,100 }
+physics.addBody(book1,"dynamic",{density=0.8, bounce=.2, friction=.9,shape = bookShape})
 
 -- add group
-local squares = { wallTop, wallBotton, wallRight, wallLeft }
+local squares = { wallTop, wallBotton, wallLeft,wallRight }
 for i = 1, #squares do
     squares[i]:setFillColor(1,0,0)
     physics.addBody(squares[i],"static")
@@ -61,7 +67,22 @@ target = display.newImage( "target.png" )
 target.height = 400 ;target.width= 400
 target.x = mainPlayer.x ; target.y = mainPlayer.y ;target.alpha = 0
 
+----------------------------------------- Functions -----------------------------------
+-- spin an object
+factor = 0
+function obstacleMove(event)
+  pathWay.rotation = pathWay.rotation + 20
+  -- print(pathWay.y)
+  if math.floor(pathWay.y) == display.contentHeight-200 then
+    factor = -10
+  elseif math.floor(pathWay.y) == 350  then
+    factor = 10
+  end
 
+  --pathWay.y = pathWay.y + factor
+
+
+end
 -- Shoot the cue ball, using a visible force vector
 function cballShot( event )
 
@@ -130,3 +151,4 @@ end
 -- on tap move the ball up --
 --Runtime:addEventListener("tap",moveBall)
 mainPlayer:addEventListener( "touch", cballShot ) -- Sets event listener to cueball
+Runtime:addEventListener("enterFrame",obstacleMove)
