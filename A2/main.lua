@@ -27,7 +27,7 @@ local maxNumberBooks=1
 -- Add a round body to the screen
 local mainPlayer = display.newCircle(200,display.contentHeight-500,35)
 mainPlayer:setFillColor(1,0,0)
-physicsEnvironment.addBody(mainPlayer, { density=0.09, friction=1.0, bounce=.9, radius=35 })
+physicsEnvironment.addBody(mainPlayer, { density=0.01, friction=1.0, bounce=.9, radius=35 })
 mainPlayer.linearDamping = 0.3 -- theorical friction of the object moving through air
 mainPlayer.isBullet = true -- force continuous collision detection, to stop really fast shots from passing through other balls
 
@@ -170,9 +170,9 @@ if (event.other.name == "book1" or event.other.name == "book2" or event.other.na
     -- timer
     timer.performWithDelay( 2, onTimer, 5 )
     if event.other.name == "book4" then
-       audio.play(fx1, {channel=10});
+       audio.play(fx1, {channel=10})
     else
-       audio.play(fx3, {channel=9});
+       audio.play(fx3, {channel=9})
     end
     event.other:removeSelf()
     maxNumberBooks = maxNumberBooks -1
@@ -284,9 +284,9 @@ function cballShot( event )
 end
 
 -- load annoying background musics
-local soundtrack = audio.loadStream("trollolol.mp3");
-audio.play(soundtrack, {channel=5, fadein=5000, loops=-1}); -- 5 second fadein,
-audio.setVolume( 0.0, { channel=5 } )
+--local soundtrack = audio.loadStream("trollolol.mp3");
+--audio.play(soundtrack, {channel=5, fadein=5000, loops=-1}); -- 5 second fadein,
+--audio.setVolume( 0.0, { channel=5 } )
 
 mainPlayer:addEventListener( "touch", cballShot ) -- Sets event listener to cueball
 Runtime:addEventListener("tap",generateBooks)
