@@ -284,9 +284,9 @@ function cballShot( event )
 end
 
 -- load annoying background musics
---local soundtrack = audio.loadStream("trollolol.mp3");
---audio.play(soundtrack, {channel=5, fadein=5000, loops=-1}); -- 5 second fadein,
---audio.setVolume( 0.0, { channel=5 } )
+local soundtrack = audio.loadStream("trollolol.mp3");
+audio.play(soundtrack, {channel=5, fadein=5000, loops=-1}); -- 5 second fadein,
+audio.setVolume( 0.02, { channel=5 } )
 
 mainPlayer:addEventListener( "touch", cballShot ) -- Sets event listener to cueball
 Runtime:addEventListener("tap",generateBooks)
