@@ -11,7 +11,21 @@ function scene:create( event )
 	--and it contains a unique self.view property which is a reference to the display group associated with the scene.
 	--This self.view is where you should insert visual elements pertaining to the scene.
 
+	divider = display.newRect(display.contentWidth/2,50,display.contentWidth,100)
+	divider:setFillColor(0.475,0.49,0.545)
 
+
+	local defaultBox
+
+	-- Create text box
+	searchBar = display.newRoundedRect(display.contentWidth/2,50,500,50,25)
+	defaultBox = native.newTextBox( display.contentWidth/2,50,450,50,500 )
+	defaultBox.text = "Enter location"
+	defaultBox.isEditable = true
+ 	defaultBox.alpha=0.2
+	defaultBox.font = native.newFont( "Verdana", 24 )
+
+	--defaultBox:addEventListener( "userInput", textListener )
 
 -- The "onRowRender" function may go here (see example under "Inserting Rows", above)
 
@@ -25,6 +39,7 @@ local scrollBarOpt = {
 }
 local scrollBarSheet = graphics.newImageSheet( "scrollBar.png", scrollBarOpt )
 
+local images = {"image.jpg","image2.jpg","image3.jpg","image4.jpg","image5.jpg","image6.jpg"}
 -- when the row is rendering then
 local function onRowRender( event )
 
@@ -38,6 +53,13 @@ local function onRowRender( event )
     local rowTitle = display.newText( row, "Row " .. row.index, 0, 0, nil, 14 )
     rowTitle:setFillColor( 0 )
 
+		image = display.newImage(row,images[row.index])
+		--image.alpha = 0.6
+		image.height = 400
+		image.width =700
+		image.x = 300
+		image.y = 201
+
     -- Align the label left and vertically centered
     rowTitle.anchorX = 0
     rowTitle.x = 0
@@ -48,7 +70,7 @@ end
 local tableView = widget.newTableView(
     {
         x = display.contentWidth/2,
-        y = display.contentHeight/2,
+        y = 765,
         height = display.contentHeight,
         width = display.contentWidth,
         onRowRender = onRowRender,
@@ -64,15 +86,16 @@ local tableView = widget.newTableView(
 )
 
 
--- Insert 40 rows
-for i = 1, 10 do
+-- Insert 10 rows
+for i = 1, 6 do
 
     -- Insert a row into the tableView
     tableView:insertRow(
         {
+
             isCategory = false,
-            rowHeight = 300,
-            rowColor = { default={1,1,1}, over={1,0.5,0,0.2} },
+            rowHeight = 400,
+            rowColor = { default={0.251,0.267,0.322}, over={1,0.5,0,0.2} },
             lineColor = { 0.5, 0.5, 0.5 }
 
         }
@@ -80,7 +103,7 @@ for i = 1, 10 do
 end
 sceneGroup:insert(tableView)
 
-end
+end -- scene create
 
 function scene:show( event )
 
