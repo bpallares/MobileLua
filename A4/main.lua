@@ -4,4 +4,4 @@ display.setStatusBar( display.HiddenStatusBar )
 local composer = require "composer"
 
 
-composer.gotoScene( "secondPage", "fade", 400 )
+composer.gotoScene( "thirdPage", "fade", 400 )

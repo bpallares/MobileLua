@@ -37,13 +37,14 @@ function scene:create( event )
 	sceneGroup:insert( buttonSearch )
 	sceneGroup:insert( buttonLogin )
   -- colors -- stroke
-  buttonSearch.fill= none
+  --buttonSearch.fill= none
   buttonSearch.strokeWidth = 2
   buttonLogin:setFillColor(0.14,0.67,0.37)
   -- Text on top of the buttons
   local textSearch = display.newText("Search", display.contentWidth/2,display.contentHeight -500,"Verdana",25)
   local textLogin = display.newText("Login", display.contentWidth/2,display.contentHeight -400,"Verdana",25)
   local textRegister=  display.newText("Register", display.contentWidth/2-60,display.contentHeight -340,"Verdana",20)
+	textSearch:setFillColor( 0,0,0,1)
 	sceneGroup:insert(textSearch)
 	sceneGroup:insert( textLogin)
 	sceneGroup:insert(textRegister)
@@ -59,7 +60,7 @@ function scene:create( event )
   		--return true -- prevents other objects from receiving the event, and basically means that it worked.
   end
 
-  buttonLogin:addEventListener("tap",goToStore)
+  buttonSearch:addEventListener("tap",goToStore)
 
 
 end

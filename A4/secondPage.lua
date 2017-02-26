@@ -2,6 +2,8 @@ local composer = require( "composer" )
 local scene = composer.newScene()
 local widget = require( "widget" )
 
+local defaultBox
+
 
 
 function scene:create( event )
@@ -11,11 +13,13 @@ function scene:create( event )
 	--and it contains a unique self.view property which is a reference to the display group associated with the scene.
 	--This self.view is where you should insert visual elements pertaining to the scene.
 
+
 	divider = display.newRect(display.contentWidth/2,50,display.contentWidth,100)
 	divider:setFillColor(0.475,0.49,0.545)
+	local backTextButton = display.newText("<|",60,45,"Verdana",34)
 
 
-	local defaultBox
+
 
 	-- Create text box
 	searchBar = display.newRoundedRect(display.contentWidth/2,50,500,50,25)
@@ -24,6 +28,9 @@ function scene:create( event )
 	defaultBox.isEditable = true
  	defaultBox.alpha=0.2
 	defaultBox.font = native.newFont( "Verdana", 24 )
+
+
+
 
 	--defaultBox:addEventListener( "userInput", textListener )
 
@@ -101,7 +108,27 @@ for i = 1, 6 do
         }
     )
 end
+
+
+
 sceneGroup:insert(tableView)
+sceneGroup:insert(divider)
+sceneGroup:insert(searchBar)
+sceneGroup:insert(backTextButton)
+sceneGroup:insert(defaultBox)
+
+
+local function goToMain( event )
+		defaultBox.alpha=0
+		composer.gotoScene( "firstPage", "slideRight", 700  )
+		--return true -- prevents other objects from receiving the event, and basically means that it worked.
+end
+
+backTextButton:addEventListener("tap",goToMain)
+
+
+
+
 
 end -- scene create
 
@@ -110,6 +137,8 @@ function scene:show( event )
 	local phase = event.phase
 
 	if "did" == phase then
+	  -- fixes the text box  that had a glitch when transitioning
+		defaultBox.alpha=0.2
 
 
 
