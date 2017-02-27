@@ -25,7 +25,7 @@ function scene:create( event )
   -- add message
   local message = display.newText("",display.contentWidth/2,display.contentHeight/2 -100,"Verdana",28)
   message.text = "Welcome to the app of the future. \n" ..
-                  "Please, login to post apartments for rent,\n"..
+                  "Please, login to post an apartment for rent,\n"..
                   "or press search to find you next home! \n"..
                   "\nfor more details access our website: \n"..
                   "www.blablabla.com. \n"..
@@ -61,6 +61,13 @@ function scene:create( event )
   end
 
   buttonSearch:addEventListener("tap",goToStore)
+
+ 	local function goToMain( event )
+			composer.gotoScene( "thirdPage", "slideLeft", 700  )
+			--return true -- prevents other objects from receiving the event, and basically means that it worked.
+	end
+
+	buttonLogin:addEventListener("tap",goToMain)
 
 
 end
