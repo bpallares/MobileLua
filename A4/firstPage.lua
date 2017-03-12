@@ -20,7 +20,7 @@ function scene:create( event )
   --local container = display.newRect(display.contentWidth/2,display.contentHeight/2,700,950)
   --container.alpha = 0.2
   -- add Welcome message
-  local welcome = display.newText("Welcome", display.contentWidth/2,display.contentHeight/2 -300,"Verdana",80)
+  local welcome = display.newText("Welcome ", display.contentWidth/2,display.contentHeight/2 -300,"Verdana",80)
 	sceneGroup:insert( welcome)
   -- add message
   local message = display.newText("",display.contentWidth/2,display.contentHeight/2 -100,"Verdana",28)
