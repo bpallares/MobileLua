@@ -13,12 +13,22 @@ local isCurrentlyAnimated = false
 local b =display.newRect(display.contentWidth/2,display.contentHeight/2,display.contentWidth,display.contentHeight)
 b:setFillColor(0.85,0.85,0.85)
 -- Background with numbers
-local e = display.newImage("numbers.png",display.contentWidth/2,display.contentHeight/2,display.contentWidth)
+local e = display.newImage("melamine.png",display.contentWidth/2,display.contentHeight/2)
 e.width = display.contentWidth
 e.height =display.contentHeight
-e.alpha =  0.029
+e.alpha =  0.3
+-- 
+local f = display.newImage("melamine2.png",display.contentWidth/2,display.contentHeight/2+170)
+f:rotate(90)
+f.width = 30
+f.height = 200
+local g  = display.newImage("melamine2.png",display.contentWidth/2,display.contentHeight/2-170)
+g:rotate(90)
+g.width = 30
+g.height = 200
+
 -- Button
-local button = display.newRect(56,20,90,30)
+local button = display.newRoundedRect(56,20,90,30,5)
 -- Text of the button 
 local d = display.newText("Do Something...",56,20,"Helvetica",12)
 d:setFillColor(1,1,1)
