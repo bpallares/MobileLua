@@ -1,0 +1,2446 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2017-05-02T23:37:30-04:00",
+  "num_results": 32,
+  "results": [
+    {
+      "section": "Briefing",
+      "subsection": "",
+      "title": "Trump, Putin, Jimmy Kimmel: Your Tuesday Evening Briefing",
+      "abstract": "1. President Trump’s push to get a new health care bill through the House was dealt a huge blow by an influential Republican who refused to support it. The lawmaker said it “torpedoes” protections for people with pre-existing conditions, who are also speaking out against the bill — and so is the late-night host Jimmy Kimmel. He gave a moving monologue about his newborn son, Billy, who has a heart defect. Above, Mr. Kimmel and his wife, Molly McNearney, in February. Speaker Paul Ryan offered no indication when a vote might be held. Video from police body cameras could be crucial in the investigation into a fatal police shooting of a 15-year-old in Texas. After an internal investigation, the chief of the Balch Springs Police Department said the officer who opened fire was dismissed from the force. Prosecutors could also bring charges. Jordan Edwards was in a car leaving the area of a house party east of Dallas on Saturday night when he was shot in the head. The officers had been responding to reports of underage drinking. Jordan’s family released a statement saying his brothers “witnessed firsthand his violent, senseless murder” and asking people to refrain from protests in his name.",
+      "url": "https://www.nytimes.com/2017/05/02/briefing/trump-putin-jimmy-kimmel.html",
+      "byline": "By KAREN ZRAICK and SANDRA STEVENSON",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T21:30:34-04:00",
+      "created_date": "2017-05-02T17:58:49-04:00",
+      "published_date": "2017-05-02T17:58:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/briefing/02eveningss-slide-3HR5/02eveningss-slide-3HR5-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Evan Agostini/Invision, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/briefing/02eveningss-slide-3HR5/02eveningss-slide-3HR5-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Evan Agostini/Invision, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/briefing/02eveningss-slide-3HR5/02eveningss-slide-3HR5-articleInline.jpg",
+          "format": "Normal",
+          "height": 155,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Evan Agostini/Invision, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/briefing/02eveningss-slide-3HR5/02eveningss-slide-3HR5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Evan Agostini/Invision, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/briefing/02eveningss-slide-3HR5/02eveningss-slide-3HR5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1668,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Evan Agostini/Invision, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2qvPUcx"
+    },
+    {
+      "section": "Briefing",
+      "subsection": "",
+      "title": "Putin, Ivanka Trump, Marine Le Pen: Your Morning Briefing",
+      "abstract": "Here’s what you need to know to start your day.",
+      "url": "https://www.nytimes.com/2017/05/02/briefing/putin-ivanka-trump-marine-le-pen.html",
+      "byline": "By CHARLES McDERMID",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T21:20:51-04:00",
+      "created_date": "2017-05-02T16:13:34-04:00",
+      "published_date": "2017-05-02T16:13:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/briefing/03BRIEFING-asia-slide-WGL1/03BRIEFING-asia-slide-WGL1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yonhap, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/briefing/03BRIEFING-asia-slide-WGL1/03BRIEFING-asia-slide-WGL1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yonhap, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/briefing/03BRIEFING-asia-slide-WGL1/03BRIEFING-asia-slide-WGL1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yonhap, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/briefing/03BRIEFING-asia-slide-WGL1/03BRIEFING-asia-slide-WGL1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yonhap, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/briefing/03BRIEFING-asia-slide-WGL1/03BRIEFING-asia-slide-WGL1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yonhap, via Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2qvoi7C"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "G.O.P. Scrambles as a Crucial Voice Shuns the Latest Health Bill",
+      "abstract": "Representative Fred Upton of Michigan said he opposed the new version of the bill because it “torpedoes” protections for people with pre-existing medical conditions.",
+      "url": "https://www.nytimes.com/2017/05/02/us/politics/health-care-paul-ryan-fred-upton-congress.html",
+      "byline": "By THOMAS KAPLAN and ROBERT PEAR",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T21:22:44-04:00",
+      "created_date": "2017-05-02T11:52:35-04:00",
+      "published_date": "2017-05-02T11:52:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Health Insurance and Managed Care",
+        "Patient Protection and Affordable Care Act (2010)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Upton, Fred"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03health/03health-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Speaker Paul D. Ryan arrived for a Republican caucus meeting at the Capitol on Tuesday.",
+          "copyright": "Cliff Owen/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03health/03health-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Speaker Paul D. Ryan arrived for a Republican caucus meeting at the Capitol on Tuesday.",
+          "copyright": "Cliff Owen/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03health/merlin-to-scoop-121541993-796655-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Speaker Paul D. Ryan arrived for a Republican caucus meeting at the Capitol on Tuesday.",
+          "copyright": "Cliff Owen/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03health/merlin-to-scoop-121541993-796655-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Speaker Paul D. Ryan arrived for a Republican caucus meeting at the Capitol on Tuesday.",
+          "copyright": "Cliff Owen/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03health/merlin-to-scoop-121541993-796655-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Speaker Paul D. Ryan arrived for a Republican caucus meeting at the Capitol on Tuesday.",
+          "copyright": "Cliff Owen/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2psFOLf"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "Patients Who Rely on Obamacare Protections Are Worried",
+      "abstract": "People who have pre-existing medical conditions fear that changes to the Affordable Care Act will result in higher health care premiums for them.",
+      "url": "https://www.nytimes.com/2017/05/02/health/obamacare-patients-preexisting-conditions.html",
+      "byline": "By ABBY GOODNOUGH and REED ABELSON",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T18:52:41-04:00",
+      "created_date": "2017-05-02T14:09:06-04:00",
+      "published_date": "2017-05-02T14:09:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Health Insurance and Managed Care",
+        "Patient Protection and Affordable Care Act (2010)",
+        "United States Politics and Government",
+        "Law and Legislation"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/science/03PRE-EXISTING8/03PRE-EXISTING8-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alice Thompson taking a break in the backyard of her home office in South Milwaukee on Tuesday.",
+          "copyright": "Sara Stathas for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/science/03PRE-EXISTING8/03PRE-EXISTING8-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alice Thompson taking a break in the backyard of her home office in South Milwaukee on Tuesday.",
+          "copyright": "Sara Stathas for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/science/03PRE-EXISTING8/03PRE-EXISTING8-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alice Thompson taking a break in the backyard of her home office in South Milwaukee on Tuesday.",
+          "copyright": "Sara Stathas for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/science/03PRE-EXISTING8/03PRE-EXISTING8-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alice Thompson taking a break in the backyard of her home office in South Milwaukee on Tuesday.",
+          "copyright": "Sara Stathas for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/science/03PRE-EXISTING8/03PRE-EXISTING8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alice Thompson taking a break in the backyard of her home office in South Milwaukee on Tuesday.",
+          "copyright": "Sara Stathas for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2pteah1"
+    },
+    {
+      "section": "Arts",
+      "subsection": "Television",
+      "title": "Jimmy Kimmel’s Emotional Monologue: His New Son’s Heart Condition",
+      "abstract": "The host of “Live!” revealed that he was off last week because his wife had given birth to a son. Then he told a frightening story.",
+      "url": "https://www.nytimes.com/2017/05/02/arts/television/jimmy-kimmel-baby-son-wife.html",
+      "byline": "By GIOVANNI RUSSONELLO",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T11:14:29-04:00",
+      "created_date": "2017-05-02T05:18:52-04:00",
+      "published_date": "2017-05-02T05:18:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Jimmy Kimmel Live (TV Program)",
+        "Late Show with Stephen Colbert (TV Program)",
+        "The Daily Show with Trevor Noah (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kimmel, Jimmy",
+        "Colbert, Stephen",
+        "Corden, James (1978- )",
+        "Noah, Trevor (1984- )",
+        "Meyers, Seth",
+        "O'Brien, Conan"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/arts/02latenight1/02latenight1-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jimmy Kimmel shared the news on Monday of his new son, who was born with severe heart defects requiring emergency surgery. But the story seemed to have a happy ending.",
+          "copyright": "ABC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/arts/02latenight1/02latenight1-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jimmy Kimmel shared the news on Monday of his new son, who was born with severe heart defects requiring emergency surgery. But the story seemed to have a happy ending.",
+          "copyright": "ABC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/arts/02latenight1/02latenight1-articleInline.png",
+          "format": "Normal",
+          "height": 106,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jimmy Kimmel shared the news on Monday of his new son, who was born with severe heart defects requiring emergency surgery. But the story seemed to have a happy ending.",
+          "copyright": "ABC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/arts/02latenight1/02latenight1-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jimmy Kimmel shared the news on Monday of his new son, who was born with severe heart defects requiring emergency surgery. But the story seemed to have a happy ending.",
+          "copyright": "ABC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/arts/02latenight1/02latenight1-superJumbo.png",
+          "format": "superJumbo",
+          "height": 802,
+          "width": 1440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jimmy Kimmel shared the news on Monday of his new son, who was born with severe heart defects requiring emergency surgery. But the story seemed to have a happy ending.",
+          "copyright": "ABC"
+        }
+      ],
+      "short_url": "https://nyti.ms/2qt5ENN"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Trump’s Turn Toward China Curtails Navy Patrols in Disputed Zones",
+      "abstract": "In a shift from a promise to reverse an Obama policy, three Navy requests to sail a warship near a shoal in the South China Sea were rejected.",
+      "url": "https://www.nytimes.com/2017/05/02/world/asia/navy-south-china-sea.html",
+      "byline": "By HELENE COOPER",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T21:10:38-04:00",
+      "created_date": "2017-05-02T21:10:41-04:00",
+      "published_date": "2017-05-02T21:10:41-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "United States International Relations",
+        "United States Defense and Military Forces"
+      ],
+      "org_facet": [
+        "United States Navy",
+        "Defense Department",
+        "State Department"
+      ],
+      "per_facet": [
+        "Mattis, James N",
+        "Tillerson, Rex W",
+        "Xi Jinping",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "South China Sea",
+        "Scarborough Shoal (South China Sea)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03military/03military-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Chancellorsville, a United States guided missile cruiser, in the Luzon Strait after a patrol of the South China Sea last year.",
+          "copyright": "Bryan Denton for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03military/03military-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Chancellorsville, a United States guided missile cruiser, in the Luzon Strait after a patrol of the South China Sea last year.",
+          "copyright": "Bryan Denton for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03military/03military-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Chancellorsville, a United States guided missile cruiser, in the Luzon Strait after a patrol of the South China Sea last year.",
+          "copyright": "Bryan Denton for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03military/03military-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Chancellorsville, a United States guided missile cruiser, in the Luzon Strait after a patrol of the South China Sea last year.",
+          "copyright": "Bryan Denton for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03military/03military-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Chancellorsville, a United States guided missile cruiser, in the Luzon Strait after a patrol of the South China Sea last year.",
+          "copyright": "Bryan Denton for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2puveU7"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Trump and Putin Agree to Seek Syria Cease-Fire",
+      "abstract": "In their first conversation since last month’s rupture over Syria, President Trump said he would send a representative to Russian-sponsored talks.",
+      "url": "https://www.nytimes.com/2017/05/02/world/europe/trump-putin-syria.html",
+      "byline": "By PETER BAKER and NEIL MacFARQUHAR",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T20:42:24-04:00",
+      "created_date": "2017-05-02T11:13:26-04:00",
+      "published_date": "2017-05-02T11:13:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Putin, Vladimir V",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Russia",
+        "Syria"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03prexy/03prexy-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin of Russia at the Bocharov Ruchei state residence in Sochi on Tuesday.",
+          "copyright": "Pool photo by Alexey Nikolsky"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03prexy/03prexy-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin of Russia at the Bocharov Ruchei state residence in Sochi on Tuesday.",
+          "copyright": "Pool photo by Alexey Nikolsky"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03prexy/merlin-to-scoop-121541612-87631-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin of Russia at the Bocharov Ruchei state residence in Sochi on Tuesday.",
+          "copyright": "Pool photo by Alexey Nikolsky"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03prexy/merlin-to-scoop-121541612-87631-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin of Russia at the Bocharov Ruchei state residence in Sochi on Tuesday.",
+          "copyright": "Pool photo by Alexey Nikolsky"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03prexy/merlin-to-scoop-121541612-87631-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin of Russia at the Bocharov Ruchei state residence in Sochi on Tuesday.",
+          "copyright": "Pool photo by Alexey Nikolsky"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ps7SOW"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Trump, in Wake of Deal to Avoid a Shutdown Now, Calls for One Later",
+      "abstract": "In two Twitter posts, the president appeared to defend a spending package that Congress is considering that fails to accomplish many of his goals.",
+      "url": "https://www.nytimes.com/2017/05/02/us/politics/good-shutdown-congress-trump.html",
+      "byline": "By JULIE HIRSCHFELD DAVIS",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T14:56:58-04:00",
+      "created_date": "2017-05-02T09:55:36-04:00",
+      "published_date": "2017-05-02T09:55:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Federal Budget (US)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03shutdown1/03shutdown1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump walked to the Oval Office with Keith Schiller, his director of operations, on Tuesday.",
+          "copyright": "Stephen Crowley/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03shutdown1/03shutdown1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump walked to the Oval Office with Keith Schiller, his director of operations, on Tuesday.",
+          "copyright": "Stephen Crowley/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03shutdown1/merlin-to-scoop-121543484-544668-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump walked to the Oval Office with Keith Schiller, his director of operations, on Tuesday.",
+          "copyright": "Stephen Crowley/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03shutdown1/merlin-to-scoop-121543484-544668-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump walked to the Oval Office with Keith Schiller, his director of operations, on Tuesday.",
+          "copyright": "Stephen Crowley/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03shutdown1/merlin-to-scoop-121543484-544668-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump walked to the Oval Office with Keith Schiller, his director of operations, on Tuesday.",
+          "copyright": "Stephen Crowley/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ps5N5h"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Why Congress’s Bipartisan Budget Deal Should Make Trump Worried",
+      "abstract": "The compromise prevented the White House from delivering on President Trump’s priorities and may serve as a blueprint for circumventing him in the future.",
+      "url": "https://www.nytimes.com/2017/05/01/us/politics/congress-budget-deal-democrats-republicans.html",
+      "byline": "By CARL HULSE",
+      "item_type": "Article",
+      "updated_date": "2017-05-01T20:52:14-04:00",
+      "created_date": "2017-05-01T20:52:20-04:00",
+      "published_date": "2017-05-01T20:52:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Federal Budget (US)",
+        "Law and Legislation"
+      ],
+      "org_facet": [
+        "Senate",
+        "House of Representatives",
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/us/02hulse/02hulse-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Senate minority leader, Chuck Schumer, left, and Senator Patrick J. Leahy met with reporters on Capitol Hill on Monday. The budget compromise put Democrats in a celebratory mood.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/us/02hulse/02hulse-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Senate minority leader, Chuck Schumer, left, and Senator Patrick J. Leahy met with reporters on Capitol Hill on Monday. The budget compromise put Democrats in a celebratory mood.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/us/02hulse/02hulse-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Senate minority leader, Chuck Schumer, left, and Senator Patrick J. Leahy met with reporters on Capitol Hill on Monday. The budget compromise put Democrats in a celebratory mood.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/us/02hulse/02hulse-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Senate minority leader, Chuck Schumer, left, and Senator Patrick J. Leahy met with reporters on Capitol Hill on Monday. The budget compromise put Democrats in a celebratory mood.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/us/02hulse/02hulse-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Senate minority leader, Chuck Schumer, left, and Senator Patrick J. Leahy met with reporters on Capitol Hill on Monday. The budget compromise put Democrats in a celebratory mood.",
+          "copyright": "Eric Thayer for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2qrmJaP"
+    },
+    {
+      "section": "N.Y. / Region",
+      "subsection": "",
+      "title": "Trump Is Returning to New York City, Just Not to Sleep",
+      "abstract": "The president will travel directly to his golf course in New Jersey after an event Thursday on the U.S.S. Intrepid in Manhattan.",
+      "url": "https://www.nytimes.com/2017/05/02/nyregion/trump-visit-new-york-city.html",
+      "byline": "By MICHAEL WILSON",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T19:07:19-04:00",
+      "created_date": "2017-05-02T17:52:01-04:00",
+      "published_date": "2017-05-02T17:52:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Aircraft Carriers"
+      ],
+      "org_facet": [
+        "Intrepid Sea-Air-Space Museum",
+        "Trump Tower (Manhattan, NY)"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Bedminster (NJ)",
+        "Manhattan (NYC)",
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03TRUMPNYC1/03TRUMPNYC1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marine One carrying President Trump last month. The president is scheduled to visit New York City on Thursday for the first time since entering the White House.",
+          "copyright": "Al Drago/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03TRUMPNYC1/03TRUMPNYC1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marine One carrying President Trump last month. The president is scheduled to visit New York City on Thursday for the first time since entering the White House.",
+          "copyright": "Al Drago/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03TRUMPNYC1/03TRUMPNYC1-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marine One carrying President Trump last month. The president is scheduled to visit New York City on Thursday for the first time since entering the White House.",
+          "copyright": "Al Drago/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03TRUMPNYC1/03TRUMPNYC1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marine One carrying President Trump last month. The president is scheduled to visit New York City on Thursday for the first time since entering the White House.",
+          "copyright": "Al Drago/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03TRUMPNYC1/03TRUMPNYC1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marine One carrying President Trump last month. The president is scheduled to visit New York City on Thursday for the first time since entering the White House.",
+          "copyright": "Al Drago/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ptTvJI"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Police Officer Who Fatally Shot 15-Year-Old Texas Boy Is Fired",
+      "abstract": "The teenager, Jordan Edwards, was a passenger in a car fired upon by a police officer responding to reports of underage drinking at a party, the authorities said.",
+      "url": "https://www.nytimes.com/2017/05/02/us/dallas-police-teen-shooting-jordan-edwards.html",
+      "byline": "By MANNY FERNANDEZ, DANA GOLDSTEIN and CHRISTINE HAUSER",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T21:08:32-04:00",
+      "created_date": "2017-05-02T14:27:18-04:00",
+      "published_date": "2017-05-02T14:27:18-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Police Brutality, Misconduct and Shootings",
+        "Police"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Edwards, Jordan (d 2017)"
+      ],
+      "geo_facet": [
+        "Balch Springs (Tex)",
+        "Dallas (Tex)",
+        "Mesquite (Tex)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/us/03xp-dallas3/03xp-dallas3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police Chief Jonathan Haber of Balch Springs, Tex., spoke at a news conference on Monday about the death of Jordan Edwards. Chief Haber said the police department’s initial description of the shooting had been incorrect.",
+          "copyright": "Vernon Bryant/The Dallas Morning News, via Associated Press.."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/us/03xp-dallas3/03xp-dallas3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police Chief Jonathan Haber of Balch Springs, Tex., spoke at a news conference on Monday about the death of Jordan Edwards. Chief Haber said the police department’s initial description of the shooting had been incorrect.",
+          "copyright": "Vernon Bryant/The Dallas Morning News, via Associated Press.."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/us/03xp-dallas3/03xp-dallas3-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police Chief Jonathan Haber of Balch Springs, Tex., spoke at a news conference on Monday about the death of Jordan Edwards. Chief Haber said the police department’s initial description of the shooting had been incorrect.",
+          "copyright": "Vernon Bryant/The Dallas Morning News, via Associated Press.."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/us/03xp-dallas3/03xp-dallas3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police Chief Jonathan Haber of Balch Springs, Tex., spoke at a news conference on Monday about the death of Jordan Edwards. Chief Haber said the police department’s initial description of the shooting had been incorrect.",
+          "copyright": "Vernon Bryant/The Dallas Morning News, via Associated Press.."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/us/03xp-dallas3/03xp-dallas3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police Chief Jonathan Haber of Balch Springs, Tex., spoke at a news conference on Monday about the death of Jordan Edwards. Chief Haber said the police department’s initial description of the shooting had been incorrect.",
+          "copyright": "Vernon Bryant/The Dallas Morning News, via Associated Press.."
+        }
+      ],
+      "short_url": "https://nyti.ms/2quXCUu"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Officers Won’t Be Charged in Black Man’s Shooting Death in Louisiana",
+      "abstract": "The shooting death of Alton B. Sterling by white police officers raised an outcry and prompted a Justice Department inquiry, fueling a national debate about race and justice.",
+      "url": "https://www.nytimes.com/2017/05/02/us/alton-sterling-justice-department.html",
+      "byline": "By REBECCA R. RUIZ",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T22:43:56-04:00",
+      "created_date": "2017-05-02T17:41:39-04:00",
+      "published_date": "2017-05-02T17:41:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Police Brutality, Misconduct and Shootings"
+      ],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Sterling, Alton B (1979-2016)"
+      ],
+      "geo_facet": [
+        "Baton Rouge (La)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03sterling/03sterling-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A memorial to Alton Sterling at the Triple S Food Mart, where he was killed by police officers in Baton Rouge, La., in July 2016.",
+          "copyright": "William Widmer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03sterling/03sterling-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A memorial to Alton Sterling at the Triple S Food Mart, where he was killed by police officers in Baton Rouge, La., in July 2016.",
+          "copyright": "William Widmer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03sterling/03sterling-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A memorial to Alton Sterling at the Triple S Food Mart, where he was killed by police officers in Baton Rouge, La., in July 2016.",
+          "copyright": "William Widmer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03sterling/03sterling-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A memorial to Alton Sterling at the Triple S Food Mart, where he was killed by police officers in Baton Rouge, La., in July 2016.",
+          "copyright": "William Widmer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03sterling/03sterling-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A memorial to Alton Sterling at the Triple S Food Mart, where he was killed by police officers in Baton Rouge, La., in July 2016.",
+          "copyright": "William Widmer for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2pubX55"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Ex-Officer Who Shot Walter Scott Pleads Guilty in Charleston",
+      "abstract": "Michael T. Slager was recorded shooting Mr. Scott, an unarmed black motorist, in the back as he fled a routine traffic stop in North Charleston.",
+      "url": "https://www.nytimes.com/2017/05/02/us/michael-slager-walter-scott-north-charleston-shooting.html",
+      "byline": "By ALAN BLINDER",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T20:42:40-04:00",
+      "created_date": "2017-05-02T09:52:28-04:00",
+      "published_date": "2017-05-02T09:52:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Police Brutality, Misconduct and Shootings"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Slager, Michael T (1981- )",
+        "Scott, Walter L (1950-2015)"
+      ],
+      "geo_facet": [
+        "North Charleston (SC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03charleston/03charleston-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael T. Slager, right, arriving at court in Charleston, S.C., in December.",
+          "copyright": "Chuck Burton/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03charleston/03charleston-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael T. Slager, right, arriving at court in Charleston, S.C., in December.",
+          "copyright": "Chuck Burton/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03charleston/03charleston-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael T. Slager, right, arriving at court in Charleston, S.C., in December.",
+          "copyright": "Chuck Burton/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03charleston/03charleston-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael T. Slager, right, arriving at court in Charleston, S.C., in December.",
+          "copyright": "Chuck Burton/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/us/03charleston/03charleston-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael T. Slager, right, arriving at court in Charleston, S.C., in December.",
+          "copyright": "Chuck Burton/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2qtNUBM"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "Hamas Leader Plays Final Hand: Trying to Lift Group’s Pariah Status",
+      "abstract": "Khaled Meshal is stepping down as Hamas’s leader after over two decades, but his parting act, an attempt to put a friendly face on the militant group, has found few takers.",
+      "url": "https://www.nytimes.com/2017/05/02/world/middleeast/hamas-khaled-meshal-gaza.html",
+      "byline": "By DECLAN WALSH",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T20:44:52-04:00",
+      "created_date": "2017-05-02T20:44:55-04:00",
+      "published_date": "2017-05-02T20:44:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Palestinians",
+        "International Relations"
+      ],
+      "org_facet": [
+        "Hamas"
+      ],
+      "per_facet": [
+        "Meshal, Khaled"
+      ],
+      "geo_facet": [
+        "Gaza Strip",
+        "Israel"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03meshal1/03meshal1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hamas’s leader, Khaled Meshal, waving, during a visit to the Islamic University in Gaza City in 2012. He said a new political document showed Hamas was open to changing its ideas.",
+          "copyright": "Hatem Moussa/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03meshal1/03meshal1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hamas’s leader, Khaled Meshal, waving, during a visit to the Islamic University in Gaza City in 2012. He said a new political document showed Hamas was open to changing its ideas.",
+          "copyright": "Hatem Moussa/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03meshal1/03meshal1-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hamas’s leader, Khaled Meshal, waving, during a visit to the Islamic University in Gaza City in 2012. He said a new political document showed Hamas was open to changing its ideas.",
+          "copyright": "Hatem Moussa/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03meshal1/03meshal1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hamas’s leader, Khaled Meshal, waving, during a visit to the Islamic University in Gaza City in 2012. He said a new political document showed Hamas was open to changing its ideas.",
+          "copyright": "Hatem Moussa/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03meshal1/03meshal1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1342,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hamas’s leader, Khaled Meshal, waving, during a visit to the Islamic University in Gaza City in 2012. He said a new political document showed Hamas was open to changing its ideas.",
+          "copyright": "Hatem Moussa/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2pujYaf"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "New Soldiers for Trump’s Anti-Abortion Army",
+      "abstract": "Two abortion foes and skeptics of birth control appear headed to important health posts.",
+      "url": "https://www.nytimes.com/2017/05/02/opinion/abortion-charmaine-yoest-teresa-manning.html",
+      "byline": "By EMILY BAZELON",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T19:03:50-04:00",
+      "created_date": "2017-05-02T19:03:52-04:00",
+      "published_date": "2017-05-02T19:03:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Birth Control and Family Planning",
+        "Abortion"
+      ],
+      "org_facet": [
+        "Americans United for Life",
+        "Centers for Disease Control and Prevention",
+        "Food and Drug Administration",
+        "Health and Human Services Department"
+      ],
+      "per_facet": [
+        "Price, Thomas E (1954- )",
+        "Trump, Donald J",
+        "Charmaine Yoest",
+        "Teresa Manning"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/opinion/03bazelonWeb/03bazelonWeb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Abortion opponents in Washington at the March for Life in January.",
+          "copyright": "Al Drago/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/opinion/03bazelonWeb/03bazelonWeb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Abortion opponents in Washington at the March for Life in January.",
+          "copyright": "Al Drago/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/opinion/03bazelonWeb/03bazelonWeb-articleInline.jpg",
+          "format": "Normal",
+          "height": 121,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Abortion opponents in Washington at the March for Life in January.",
+          "copyright": "Al Drago/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/opinion/03bazelonWeb/03bazelonWeb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Abortion opponents in Washington at the March for Life in January.",
+          "copyright": "Al Drago/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/opinion/03bazelonWeb/03bazelonWeb-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1306,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Abortion opponents in Washington at the March for Life in January.",
+          "copyright": "Al Drago/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2puatrw"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Going Digital to Rescue Food",
+      "abstract": "Programs designed to avoid wasting food are now using algorithms and networks to match food to hungry people.",
+      "url": "https://www.nytimes.com/2017/05/02/opinion/going-digital-to-rescue-food.html",
+      "byline": "By TINA ROSENBERG",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T03:21:03-04:00",
+      "created_date": "2017-05-02T03:21:12-04:00",
+      "published_date": "2017-05-02T03:21:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Food",
+        "Waste Materials and Disposal",
+        "Restaurants",
+        "Food Banks and Pantries",
+        "Soup Kitchens",
+        "Supermarkets and Grocery Stores"
+      ],
+      "org_facet": [
+        "Agriculture Department",
+        "Blue Apron",
+        "City Harvest",
+        "Feeding America",
+        "FreshDirect",
+        "Hy-Vee Inc"
+      ],
+      "per_facet": [
+        "Oliver, John"
+      ],
+      "geo_facet": [
+        "Hunts Point (Bronx, NY)",
+        "New Haven (Conn)",
+        "Bronx (NYC)",
+        "San Francisco Bay Area (Calif)",
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02FIXESRosenbergWEB2/02FIXESRosenbergWEB2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Misfits bin of cosmetically undesirable produce at a Hy-Vee store in Kansas.",
+          "copyright": "Robinson Fresh"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02FIXESRosenbergWEB2/02FIXESRosenbergWEB2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Misfits bin of cosmetically undesirable produce at a Hy-Vee store in Kansas.",
+          "copyright": "Robinson Fresh"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02FIXESRosenbergWEB2/02FIXESRosenbergWEB2-articleInline.jpg",
+          "format": "Normal",
+          "height": 142,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Misfits bin of cosmetically undesirable produce at a Hy-Vee store in Kansas.",
+          "copyright": "Robinson Fresh"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02FIXESRosenbergWEB2/02FIXESRosenbergWEB2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Misfits bin of cosmetically undesirable produce at a Hy-Vee store in Kansas.",
+          "copyright": "Robinson Fresh"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02FIXESRosenbergWEB2/02FIXESRosenbergWEB2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1532,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Misfits bin of cosmetically undesirable produce at a Hy-Vee store in Kansas.",
+          "copyright": "Robinson Fresh"
+        }
+      ],
+      "short_url": "https://nyti.ms/2qswEwy"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Trump, Andrew Jackson and Ourselves",
+      "abstract": "Like the president, many of us believe we could have changed history.",
+      "url": "https://www.nytimes.com/2017/05/02/opinion/trump-andrew-jackson-and-ourselves.html",
+      "byline": "By JANE COASTON",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T12:14:49-04:00",
+      "created_date": "2017-05-02T12:14:52-04:00",
+      "published_date": "2017-05-02T12:14:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Civil War (US) (1861-65)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Jackson, Andrew",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02coastonWeb/02coastonWeb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A statue of Andrew Jackson in Lafayette Square across from the White House.",
+          "copyright": "Luke Sharrett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02coastonWeb/02coastonWeb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A statue of Andrew Jackson in Lafayette Square across from the White House.",
+          "copyright": "Luke Sharrett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02coastonWeb/02groteWeb-articleInline.jpg",
+          "format": "Normal",
+          "height": 264,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A statue of Andrew Jackson in Lafayette Square across from the White House.",
+          "copyright": "Luke Sharrett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02coastonWeb/02coastonWeb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A statue of Andrew Jackson in Lafayette Square across from the White House.",
+          "copyright": "Luke Sharrett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02coastonWeb/02groteWeb-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1474,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A statue of Andrew Jackson in Lafayette Square across from the White House.",
+          "copyright": "Luke Sharrett for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2qul8km"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Trump’s Invitation to Rodrigo Duterte Makes Sense",
+      "abstract": "It’s a necessary step toward restoring the alliance with the Philippines and maintaining U.S. leadership in Asia.",
+      "url": "https://www.nytimes.com/2017/05/02/opinion/trumps-invitation-to-rodrigo-duterte-makes-sense.html",
+      "byline": "By RICHARD JAVAD HEYDARIAN",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T22:05:57-04:00",
+      "created_date": "2017-05-02T22:06:00-04:00",
+      "published_date": "2017-05-02T22:06:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States International Relations"
+      ],
+      "org_facet": [
+        "Assn of Southeast Asian Nations"
+      ],
+      "per_facet": [
+        "Duterte, Rodrigo",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Far East, South and Southeast Asia and Pacific Areas",
+        "Philippines",
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02heydarianWeb/02heydarianWeb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Rodrigo Duterte of the Philippines, who has been invited to the White House by President Trump.",
+          "copyright": "Erik De Castro/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02heydarianWeb/02heydarianWeb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Rodrigo Duterte of the Philippines, who has been invited to the White House by President Trump.",
+          "copyright": "Erik De Castro/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02heydarianWeb/02heydarianWeb-articleInline.jpg",
+          "format": "Normal",
+          "height": 112,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Rodrigo Duterte of the Philippines, who has been invited to the White House by President Trump.",
+          "copyright": "Erik De Castro/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02heydarianWeb/02heydarianWeb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Rodrigo Duterte of the Philippines, who has been invited to the White House by President Trump.",
+          "copyright": "Erik De Castro/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/opinion/02heydarianWeb/02heydarianWeb-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1209,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Rodrigo Duterte of the Philippines, who has been invited to the White House by President Trump.",
+          "copyright": "Erik De Castro/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2puvQsU"
+    },
+    {
+      "section": "Job Market",
+      "subsection": "",
+      "title": "Conflict at Work? Empathy Can Smooth Ruffled Feathers",
+      "abstract": "Researchers found that forgiveness was more likely to occur when a victim actively empathized with the person who inflicted the perceived harm.",
+      "url": "https://www.nytimes.com/2016/10/09/jobs/conflict-at-work-empathy-can-smooth-ruffled-feathers.html",
+      "byline": "By PHYLLIS KORKKI",
+      "item_type": "Article",
+      "updated_date": "2016-10-08T11:31:14-04:00",
+      "created_date": "2016-10-08T11:31:17-04:00",
+      "published_date": "2016-10-08T11:31:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Workplace Environment",
+        "Research",
+        "Empathy"
+      ],
+      "org_facet": [
+        "London Business School"
+      ],
+      "per_facet": [
+        "Adams, Gabrielle S",
+        "Inesi, M Ena"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/10/09/business/09APPLIED/09APPLIED-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "MICHAEL WARAKSA"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/10/09/business/09APPLIED/09APPLIED-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "MICHAEL WARAKSA"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/10/09/business/09APPLIED/09APPLIED-articleInline.jpg",
+          "format": "Normal",
+          "height": 273,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "MICHAEL WARAKSA"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/10/09/business/09APPLIED/09APPLIED-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "MICHAEL WARAKSA"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/10/09/business/09APPLIED/09APPLIED-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2034,
+          "width": 1418,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "MICHAEL WARAKSA"
+        }
+      ],
+      "short_url": "https://nyti.ms/2dIFC3h"
+    },
+    {
+      "section": "NYT Now",
+      "subsection": "",
+      "title": "9 Ways to Get the Most Out of Your Times Subscription",
+      "abstract": "Nine tips from the people who know The Times best: our reporters and editors.",
+      "url": "https://www.nytimes.com/2017/04/03/nytnow/how-to-get-the-most-out-of-your-new-york-times-subscription.html",
+      "byline": "By THE NEW YORK TIMES",
+      "item_type": "Article",
+      "updated_date": "2017-04-03T11:41:27-04:00",
+      "created_date": "2017-04-03T11:41:28-04:00",
+      "published_date": "2017-04-03T11:41:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Mobile Applications"
+      ],
+      "org_facet": [
+        "New York Times"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/03/02/us/02promo2/02promo2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Our reporters and editors have suggested their top tips for getting the most out of a New York Times subscription.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/03/02/us/02promo2/02promo2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Our reporters and editors have suggested their top tips for getting the most out of a New York Times subscription.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/03/02/us/02promo2/02promo2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Our reporters and editors have suggested their top tips for getting the most out of a New York Times subscription.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/03/02/us/02promo2/02promo2-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Our reporters and editors have suggested their top tips for getting the most out of a New York Times subscription.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/03/02/us/02promo2/02promo2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Our reporters and editors have suggested their top tips for getting the most out of a New York Times subscription.",
+          "copyright": "George Etheredge for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2otPtl1"
+    },
+    {
+      "section": "Arts",
+      "subsection": "Music",
+      "title": "Alice Coltrane’s Ashram Recordings Finally Have a Wide Release",
+      "abstract": "Newly remastered versions from four rare cassettes are being released in a Luaka Bop compilation 10 years after the musician’s death.",
+      "url": "https://www.nytimes.com/2017/05/02/arts/music/alice-coltrane-ashtram-world-spirituality-classics.html",
+      "byline": "By MIKE RUBIN",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T14:43:34-04:00",
+      "created_date": "2017-05-02T14:43:37-04:00",
+      "published_date": "2017-05-02T14:43:37-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Music",
+        "World Spirituality Classics 1: The Ecstatic Music of Alice Coltrane Turiyasangitananda (Album)"
+      ],
+      "org_facet": [
+        "Shanti Anantam Ashram",
+        "Luaka Bop",
+        "Red Bull Music Academy Festival"
+      ],
+      "per_facet": [
+        "Coltrane, Alice",
+        "Coltrane, John",
+        "Coltrane, Ravi"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/arts/03COLTRANE1/03COLTRANE1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alice Coltrane around 1970.",
+          "copyright": "Michael Ochs Archives/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/arts/03COLTRANE1/03COLTRANE1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alice Coltrane around 1970.",
+          "copyright": "Michael Ochs Archives/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/arts/03COLTRANE1/03COLTRANE1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alice Coltrane around 1970.",
+          "copyright": "Michael Ochs Archives/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/arts/03COLTRANE1/03COLTRANE1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alice Coltrane around 1970.",
+          "copyright": "Michael Ochs Archives/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/arts/03COLTRANE1/03COLTRANE1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1453,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alice Coltrane around 1970.",
+          "copyright": "Michael Ochs Archives/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2pthTLD"
+    },
+    {
+      "section": "Books",
+      "subsection": "",
+      "title": "A Long, Long Look at Obama’s Life, Mostly Before the White House",
+      "abstract": "David J. Garrow’s door-stopper of a biography contains a cascade of details that, our critic says, “never connect to form an illuminating portrait.”",
+      "url": "https://www.nytimes.com/2017/05/01/books/review-rising-star-making-of-barack-obama-david-garrow.html",
+      "byline": "By MICHIKO KAKUTANI",
+      "item_type": "Article",
+      "updated_date": "2017-05-01T17:36:10-04:00",
+      "created_date": "2017-05-01T17:36:13-04:00",
+      "published_date": "2017-05-01T17:36:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Rising Star: The Making of Barack Obama (Book)",
+        "Books and Literature",
+        "Presidents and Presidency (US)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Garrow, David J",
+        "Obama, Barack"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/arts/02BOOKGARROW/02BOOKGARROW-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Patricia Wall/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/arts/02BOOKGARROW/02BOOKGARROW-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Patricia Wall/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/arts/02BOOKGARROW/02BOOKGARROW-articleInline.jpg",
+          "format": "Normal",
+          "height": 276,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Patricia Wall/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/arts/02BOOKGARROW/02BOOKGARROW-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Patricia Wall/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/02/arts/02BOOKGARROW/02BOOKGARROW-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1408,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Patricia Wall/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2qqXODZ"
+    },
+    {
+      "section": "Travel",
+      "subsection": "",
+      "title": "Cuzco Is Breathtaking (in More Ways Than One)",
+      "abstract": "In some ways this former Incan capital in Peru seems like a city frozen in time. I was able to get a taste of it all — on a reasonable budget, of course.",
+      "url": "https://www.nytimes.com/2017/05/02/travel/cuzco-peru-budget-travel.html",
+      "byline": "By LUCAS PETERSON",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T00:01:20-04:00",
+      "created_date": "2017-05-02T00:01:22-04:00",
+      "published_date": "2017-05-02T00:01:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Budget Travel",
+        "Restaurants",
+        "Altitude Sickness",
+        "Hotels and Travel Lodgings",
+        "Travel and Vacations"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Cuzco (Peru)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/07/travel/07FRUGAL1/07FRUGAL1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cuzco, with the Plaza de Armas at lower left, just above the trees.",
+          "copyright": "Guillermo Gutierrez Carrascal for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/07/travel/07FRUGAL1/07FRUGAL1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cuzco, with the Plaza de Armas at lower left, just above the trees.",
+          "copyright": "Guillermo Gutierrez Carrascal for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/07/travel/07FRUGAL1/07FRUGAL1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cuzco, with the Plaza de Armas at lower left, just above the trees.",
+          "copyright": "Guillermo Gutierrez Carrascal for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/07/travel/07FRUGAL1/07FRUGAL1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cuzco, with the Plaza de Armas at lower left, just above the trees.",
+          "copyright": "Guillermo Gutierrez Carrascal for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/07/travel/07FRUGAL1/07FRUGAL1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cuzco, with the Plaza de Armas at lower left, just above the trees.",
+          "copyright": "Guillermo Gutierrez Carrascal for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2qrVvRk"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Clinton, Denouncing Trump, Calls Herself ‘Part of the Resistance’",
+      "abstract": "Hillary Clinton sharply questioned President Trump’s conduct in office, criticizing his foreign policy pronouncements and penchant for posting on Twitter.",
+      "url": "https://www.nytimes.com/2017/05/02/us/clinton-trump-interview.html",
+      "byline": "By ALEXANDER BURNS",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T16:25:15-04:00",
+      "created_date": "2017-05-02T14:42:32-04:00",
+      "published_date": "2017-05-02T14:42:32-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "United States International Relations"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Clinton, Hillary Rodham",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [],
+      "short_url": "https://nyti.ms/2ptyGhF"
+    },
+    {
+      "section": "World",
+      "subsection": "Australia",
+      "title": "China Craves Foreign Goods. Students in Australia Supply Them.",
+      "abstract": "Australian goods are hot commodities in China, and tens of thousands of young Chinese have built a cottage industry to meet the demand.",
+      "url": "https://www.nytimes.com/2017/05/02/world/australia/china-students-daigou.html",
+      "byline": "By JACQUELINE WILLIAMS and XIUZHONG XU",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T15:30:18-04:00",
+      "created_date": "2017-05-02T15:30:21-04:00",
+      "published_date": "2017-05-02T15:30:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "International Trade and World Market",
+        "Shopping and Retail"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Australia",
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03ozchina-1/03ozchina-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uki Shao, 18, at a Chemist Warehouse in Melbourne, Australia, last month. Ms. Shao, a business major, describes herself as the &ldquo;best daigou at my college.&rdquo;",
+          "copyright": "Asanka Brendon Ratnayake for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03ozchina-1/03ozchina-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uki Shao, 18, at a Chemist Warehouse in Melbourne, Australia, last month. Ms. Shao, a business major, describes herself as the &ldquo;best daigou at my college.&rdquo;",
+          "copyright": "Asanka Brendon Ratnayake for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03ozchina-1/03ozchina-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uki Shao, 18, at a Chemist Warehouse in Melbourne, Australia, last month. Ms. Shao, a business major, describes herself as the &ldquo;best daigou at my college.&rdquo;",
+          "copyright": "Asanka Brendon Ratnayake for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03ozchina-1/03ozchina-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uki Shao, 18, at a Chemist Warehouse in Melbourne, Australia, last month. Ms. Shao, a business major, describes herself as the &ldquo;best daigou at my college.&rdquo;",
+          "copyright": "Asanka Brendon Ratnayake for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03ozchina-1/03ozchina-1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uki Shao, 18, at a Chemist Warehouse in Melbourne, Australia, last month. Ms. Shao, a business major, describes herself as the &ldquo;best daigou at my college.&rdquo;",
+          "copyright": "Asanka Brendon Ratnayake for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2qveCtO"
+    },
+    {
+      "section": "Business Day",
+      "subsection": "",
+      "title": "U.S. Auto Boom Seems to Be History, Just as Trump Counted on Jobs",
+      "abstract": "A fourth straight monthly sales decline, at a rate exceeding forecasts, put a dent in automakers’ shares. “The market is tapped out,” a dealer said.",
+      "url": "https://www.nytimes.com/2017/05/02/business/auto-sales-decline.html",
+      "byline": "By NEAL E. BOUDETTE",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T20:38:06-04:00",
+      "created_date": "2017-05-02T20:01:30-04:00",
+      "published_date": "2017-05-02T20:01:30-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Layoffs and Job Reductions",
+        "United States Economy",
+        "Automobiles"
+      ],
+      "org_facet": [
+        "Fiat Chrysler Automobiles NV",
+        "Ford Motor Co",
+        "General Motors"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/business/03auto/03auto-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robots painting a car body at the Chrysler plant in Sterling Heights, Mich. Fiat Chrysler sales fell 7 percent in April.",
+          "copyright": "Jim West/Report Digital Rea/Redux Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/business/03auto/03auto-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robots painting a car body at the Chrysler plant in Sterling Heights, Mich. Fiat Chrysler sales fell 7 percent in April.",
+          "copyright": "Jim West/Report Digital Rea/Redux Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/business/03auto/03auto-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robots painting a car body at the Chrysler plant in Sterling Heights, Mich. Fiat Chrysler sales fell 7 percent in April.",
+          "copyright": "Jim West/Report Digital Rea/Redux Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/business/03auto/03auto-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robots painting a car body at the Chrysler plant in Sterling Heights, Mich. Fiat Chrysler sales fell 7 percent in April.",
+          "copyright": "Jim West/Report Digital Rea/Redux Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/business/03auto/03auto-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robots painting a car body at the Chrysler plant in Sterling Heights, Mich. Fiat Chrysler sales fell 7 percent in April.",
+          "copyright": "Jim West/Report Digital Rea/Redux Pictures"
+        }
+      ],
+      "short_url": "https://nyti.ms/2qwr5gD"
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Customers Waiting on New iPhones Crimp Apple’s Profits",
+      "abstract": "The Silicon Valley giant said sales in its most recent quarter were slowed by expectations for a phone that isn’t due until September.",
+      "url": "https://www.nytimes.com/2017/05/02/technology/apple-profit-increases-new-iphones.html",
+      "byline": "By VINDU GOEL",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T20:54:08-04:00",
+      "created_date": "2017-05-02T20:54:10-04:00",
+      "published_date": "2017-05-02T20:54:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Smartphones",
+        "Company Reports",
+        "iPhone"
+      ],
+      "org_facet": [
+        "Apple Inc"
+      ],
+      "per_facet": [
+        "Cook, Timothy D"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/business/03APPLE/03APPLE-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Apple store in Short Hills, N.J. The number of iPhones sold globally fell 1 percent in the first calendar quarter, Apple said.",
+          "copyright": "John Taggart for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/business/03APPLE/03APPLE-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Apple store in Short Hills, N.J. The number of iPhones sold globally fell 1 percent in the first calendar quarter, Apple said.",
+          "copyright": "John Taggart for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/business/03APPLE/03APPLE-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Apple store in Short Hills, N.J. The number of iPhones sold globally fell 1 percent in the first calendar quarter, Apple said.",
+          "copyright": "John Taggart for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/business/03APPLE/03APPLE-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Apple store in Short Hills, N.J. The number of iPhones sold globally fell 1 percent in the first calendar quarter, Apple said.",
+          "copyright": "John Taggart for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/business/03APPLE/03APPLE-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Apple store in Short Hills, N.J. The number of iPhones sold globally fell 1 percent in the first calendar quarter, Apple said.",
+          "copyright": "John Taggart for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2qwqPyu"
+    },
+    {
+      "section": "Fashion & Style",
+      "subsection": "",
+      "title": "Rei Kawakubo, the Nearly Silent Oracle of Fashion",
+      "abstract": "The 74-year-old designer, now the subject of a major show at the Metropolitan Museum of Art, prefers to let her clothes speak for themselves.",
+      "url": "https://www.nytimes.com/2017/05/01/fashion/rei-kawakubos-commes-de-garcons.html",
+      "byline": "By MATTHEW SCHNEIER",
+      "item_type": "Article",
+      "updated_date": "2017-05-01T17:55:26-04:00",
+      "created_date": "2017-05-01T17:55:29-04:00",
+      "published_date": "2017-05-01T17:55:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Fashion and Apparel"
+      ],
+      "org_facet": [
+        "Metropolitan Museum of Art"
+      ],
+      "per_facet": [
+        "Rei Kawakubo"
+      ],
+      "geo_facet": [],
+      "multimedia": [],
+      "short_url": "https://nyti.ms/2qr3ePq"
+    },
+    {
+      "section": "N.Y. / Region",
+      "subsection": "",
+      "title": "Long Island Foster Father Found Not Guilty of Abusing Boys",
+      "abstract": "Cesar Gonzales-Mugaburu, 60, who took in 95 boys over two decades, had been accused of endangering or sexually abusing eight of them.",
+      "url": "https://www.nytimes.com/2017/05/02/nyregion/long-island-foster-father-not-guilty-abuse.html",
+      "byline": "By ARIELLE DOLLINGER and ELI ROSENBERG",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T18:07:56-04:00",
+      "created_date": "2017-05-02T12:31:34-04:00",
+      "published_date": "2017-05-02T12:31:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Sex Crimes",
+        "Foster Care",
+        "Child Abuse and Neglect"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Gonzales-Mugaburu, Cesar (1956- )"
+      ],
+      "geo_facet": [
+        "Ridge (NY)",
+        "Riverhead (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03MUGABURU2/26MUGABURU2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cesar Gonzales-Mugaburu",
+          "copyright": "Suffolk County District Attorney, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03MUGABURU2/26MUGABURU2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cesar Gonzales-Mugaburu",
+          "copyright": "Suffolk County District Attorney, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03MUGABURU2/26MUGABURU2-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cesar Gonzales-Mugaburu",
+          "copyright": "Suffolk County District Attorney, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03MUGABURU2/26MUGABURU2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cesar Gonzales-Mugaburu",
+          "copyright": "Suffolk County District Attorney, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03MUGABURU2/26MUGABURU2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1937,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cesar Gonzales-Mugaburu",
+          "copyright": "Suffolk County District Attorney, via Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "N.Y. / Region",
+      "subsection": "",
+      "title": "Amtrak’s Plan for Penn Station Repairs Calls for 44 Days of Closed Tracks",
+      "abstract": "A preliminary document outlines 21 tasks that would disrupt service for commuters to Manhattan for nearly three weeks in July and almost all of August.",
+      "url": "https://www.nytimes.com/2017/05/02/nyregion/amtrak-penn-station-repairs-track-closings.html",
+      "byline": "By PATRICK McGEEHAN",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T21:08:50-04:00",
+      "created_date": "2017-05-02T13:46:23-04:00",
+      "published_date": "2017-05-02T13:46:23-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Transit Systems",
+        "Railroad Accidents and Safety",
+        "Commuting"
+      ],
+      "org_facet": [
+        "Amtrak",
+        "Long Island Rail Road Co",
+        "New Jersey Transit",
+        "Pennsylvania Station (Manhattan, NY)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03AMTRAK/03AMTRAK-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Evening rush-hour commuters at Pennsylvania Station in Manhattan last month.",
+          "copyright": "Mary Altaffer/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03AMTRAK/03AMTRAK-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Evening rush-hour commuters at Pennsylvania Station in Manhattan last month.",
+          "copyright": "Mary Altaffer/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03AMTRAK/03AMTRAK-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Evening rush-hour commuters at Pennsylvania Station in Manhattan last month.",
+          "copyright": "Mary Altaffer/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03AMTRAK/03AMTRAK-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Evening rush-hour commuters at Pennsylvania Station in Manhattan last month.",
+          "copyright": "Mary Altaffer/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/nyregion/03AMTRAK/03AMTRAK-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Evening rush-hour commuters at Pennsylvania Station in Manhattan last month.",
+          "copyright": "Mary Altaffer/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ptazQd"
+    },
+    {
+      "section": "The Upshot",
+      "subsection": "",
+      "title": "For Bad Backs, It May Be Time to Rethink Biases About Chiropractors",
+      "abstract": "Spinal manipulation and other therapies seem at least as effective and safe as more traditional treatment.",
+      "url": "https://www.nytimes.com/2017/05/01/upshot/for-bad-backs-its-time-to-rethink-biases-about-chiropractors.html",
+      "byline": "By AARON E. CARROLL",
+      "item_type": "Article",
+      "updated_date": "2017-05-01T05:30:23-04:00",
+      "created_date": "2017-05-01T05:30:25-04:00",
+      "published_date": "2017-05-01T05:30:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Back (Human Body Part)",
+        "Chiropractors",
+        "Alternative and Complementary Medicine"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/04/28/upshot/02up-healthspine1/02up-healthspine1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Spinal manipulation or physical therapy such as heat and stretches (above) seem as effective as traditional approaches to help lower back pain.",
+          "copyright": "Joshua Bright for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/04/28/upshot/02up-healthspine1/02up-healthspine1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Spinal manipulation or physical therapy such as heat and stretches (above) seem as effective as traditional approaches to help lower back pain.",
+          "copyright": "Joshua Bright for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/04/28/upshot/02up-healthspine1/02up-healthspine1-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Spinal manipulation or physical therapy such as heat and stretches (above) seem as effective as traditional approaches to help lower back pain.",
+          "copyright": "Joshua Bright for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/04/28/upshot/02up-healthspine1/02up-healthspine1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Spinal manipulation or physical therapy such as heat and stretches (above) seem as effective as traditional approaches to help lower back pain.",
+          "copyright": "Joshua Bright for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/04/28/upshot/02up-healthspine1/02up-healthspine1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1379,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Spinal manipulation or physical therapy such as heat and stretches (above) seem as effective as traditional approaches to help lower back pain.",
+          "copyright": "Joshua Bright for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2pmtUCx"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "To Understand ‘Brexit,’ Look to Britain’s Tabloids",
+      "abstract": "Despite their falling circulations and tarnished reputations, tabloids maintain a striking grip on power as Britain prepares to cut ties with the European Union.",
+      "url": "https://www.nytimes.com/2017/05/02/world/europe/london-tabloids-brexit.html",
+      "byline": "By KATRIN BENNHOLD",
+      "item_type": "Article",
+      "updated_date": "2017-05-02T07:45:08-04:00",
+      "created_date": "2017-05-02T07:45:11-04:00",
+      "published_date": "2017-05-02T07:45:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tabloids",
+        "Newspapers",
+        "Great Britain Withdrawal from EU (Brexit)",
+        "Rumors and Misinformation",
+        "News and News Media"
+      ],
+      "org_facet": [
+        "Sun, The (British Newspaper)"
+      ],
+      "per_facet": [
+        "Murdoch, Rupert",
+        "Gallagher, Tony"
+      ],
+      "geo_facet": [
+        "London (England)",
+        "England"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/europe/03tabloids-ss-slide-HTAW/03tabloids-ss-slide-HTAW-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Sun offices are just below Mr. Murdoch’s office.",
+          "copyright": "José Sarmento Matos for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/europe/03tabloids-ss-slide-HTAW/03tabloids-ss-slide-HTAW-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Sun offices are just below Mr. Murdoch’s office.",
+          "copyright": "José Sarmento Matos for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/europe/03tabloids-ss-slide-HTAW/03tabloids-ss-slide-HTAW-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 159,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Sun offices are just below Mr. Murdoch’s office.",
+          "copyright": "José Sarmento Matos for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/europe/03tabloids-ss-slide-HTAW/03tabloids-ss-slide-HTAW-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Sun offices are just below Mr. Murdoch’s office.",
+          "copyright": "José Sarmento Matos for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/europe/03tabloids-ss-slide-HTAW/03tabloids-ss-slide-HTAW-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Sun offices are just below Mr. Murdoch’s office.",
+          "copyright": "José Sarmento Matos for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2qttTv7"
+    }
+  ]
+}
